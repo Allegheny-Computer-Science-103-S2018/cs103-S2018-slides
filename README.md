@@ -1,7 +1,7 @@
-# cs111-F2017-slides
+# cs103-S2018-slides
 
-This repository contains all of presentation slides for Computer Science 111
-Fall 2017. Each HTML file in this repository contains one "deck" of slides for a
+This repository contains all of presentation slides for Computer Science 103
+Spring 2018. Each HTML file in this repository contains one "deck" of slides for a
 module of this course. To learn more about the course in which these assignments
 were completed, please visit the [Computer Science 111 Fall 2017 GitHub
 Organization](https://github.com/Allegheny-Computer-Science-111-F2017). The
