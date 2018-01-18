@@ -1,15 +1,15 @@
 # cs103-S2018-slides
 
 This repository contains all of presentation slides for Computer Science 103
-Spring 2018. Each HTML file in this repository contains one "deck" of slides for a
-module of this course. To learn more about the course in which these assignments
-were completed, please visit the [Computer Science 103 Spring 2018 GitHub
-Organization](https://github.com/Allegheny-Computer-Science-103-S2018). The
-source code of the slides uses
+Spring 2018. Each HTML file in this repository contains one "deck" of slides for
+a module of this course. To learn more about the course in which these
+assignments were completed, please visit the [Computer Science 103 Spring 2018
+GitHub Organization](https://github.com/Allegheny-Computer-Science-103-S2018).
+The source code of the slides uses
 [reveal.js](https://github.com/hakimel/reveal.js/) framework to control the
 display of each slide. I have developed a custom theme for the slides that
-manages the formatting, color scheme, and the use of full-screen photographs on
-the backgrounds.
+manages the fonts, formatting, color scheme, and the use of full-screen
+photographs on the backgrounds.
 
 You are welcome to use these slides as inspiration for your own presentation. If
 you find these slides useful, could I trouble you to star this repository and
