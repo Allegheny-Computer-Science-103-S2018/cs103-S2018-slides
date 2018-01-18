@@ -23,11 +23,10 @@ You can type the following command if you want to clone this repository:
 git clone https://github.com/Allegheny-Computer-Science-103-S2018/cs103-S2018-slides.git
 ```
 
-Please note that the presentation uses local fonts so that it can be displayed
-on a laptop that either may not have access to the Internet or may only have
-unreliable Internet access. Some browsers may disallow the loading of local
-fonts due to security concerns. However, it should be possible for you to view
-the presentation correctly when using Chrome or Chromium on the Ubuntu operating
+Please note that the presentation uses remote fonts and thus will not correctly
+display on a laptop that either may not have access to the Internet or may only
+have unreliable Internet access. Also, it should be possible for you to view the
+presentation correctly when using Chrome or Chromium on the Ubuntu operating
 system &mdash; this is my primary development environment and the one that I
 used to present these slides. However, I anticipate that the presentation slides
 will display correctly on a wide variety of operating systems and browsers.
